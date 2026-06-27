@@ -1,0 +1,4 @@
+# 启动开发服务器
+npm run serve
+# 或者
+npm run dev
